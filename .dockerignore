@@ -1,0 +1,9 @@
+PromoBotTelegram/
+__pycache__/
+
+.env
+*.session
+*.session-journal
+
+.git
+.gitignore
